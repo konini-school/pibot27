@@ -7,7 +7,7 @@
 ##############################################
 
 import RPi.GPIO as GPIO
-import time
+import time 3
 import sys, tty, termios
 
 print '\nHi, I am PiBot, your very own learning robot.'
