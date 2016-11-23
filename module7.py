@@ -49,7 +49,7 @@ def right(interval):
 # Main instructions here      
 forward(0)
 right(0)
-left(50000)
+left(5)
 back(0)
 
 GPIO.cleanup()
