@@ -47,10 +47,10 @@ def right(interval):
       GPIO.output(11, False)
 
 # Main instructions here      
-forward(2)
-right(1)
-left(1)
-back(3)
+forward(0)
+right(0)
+left(0)
+back(5)
 
 GPIO.cleanup()
    
