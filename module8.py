@@ -7,7 +7,7 @@
 ##############################################
 
 import RPi.GPIO as GPIO
-import time 0.5
+import time 
 import sys, tty, termios
 
 print '\nHi, I am PiBot, your very own learning robot.'
@@ -61,7 +61,7 @@ try:
       print 'back'
       GPIO.output(7, True)
       GPIO.output(15, True)
-      time.sleep(1)
+      time.sleep(0.5)
       GPIO.output(7, False)
       GPIO.output(15, False)
 
