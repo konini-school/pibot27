@@ -2,7 +2,7 @@
 # File Name: module3.py
 # Version: 1.0
 # Team No.: 27
-# Team Name:cool guys
+# Team Name:
 # Date: 28 Oct 15
 ##############################################
 
