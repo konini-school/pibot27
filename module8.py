@@ -49,7 +49,7 @@ try:
         
     # The car will drive forward when the "w" key is pressed
     if(char == "w"):
-      print 'forward'
+      print 'foward arrow'
       GPIO.output(11, True)
       GPIO.output(13, True)
       time.sleep(0.5)
